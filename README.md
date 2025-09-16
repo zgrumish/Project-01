@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Zander Grumish
 
-# Your Github username
+# zgrumish
 
-# List the things you added for points
+# Added 20 knots and 5 varribles
